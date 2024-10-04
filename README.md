@@ -5,7 +5,7 @@ This program mainly references the **Notebook [Re: Starting from Scratch in the 
 
 It utilizes the `libcint` integral library to compute various integrals and directly solves the generalized eigenvalue problem using `eigh`, avoiding the discussion of **Löwdin Orthogonalization**
 
-Reference Books：  
+**Reference Books：**      
 Szabo, A., & Ostlund, N. S. *Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory.*  
 Levine, I. N. *Quantum Chemistry.*    
 
